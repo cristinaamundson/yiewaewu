@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ceiroopaif.patrickdevine.me/sitemap.xml
